@@ -1,0 +1,100 @@
+1 Pabėgimas iš Šoušenko
+2 Krikštatėvis
+3 Tamsos riteris
+4 Krikštatėvis II
+5 12 įtūžusių vyriškių
+6 Žiedų valdovas. Karaliaus sugrįžimas
+7 Bulvarinis skaitalas
+8 Šindlerio sąrašas
+9 Pradžia
+10 Kovos klubas
+11 Žiedų valdovas. Žiedo brolija
+12 Forestas Gampas
+13 Geras, blogas ir bjaurus
+14 Žiedų valdovas. Dvi tvirtovės
+15 Matrica
+16 Geri vyrukai
+17 Žvaigždžių karai. Imperija kontratakuoja
+18 Skrydis virš gegutės lizdo
+19 Parazitas
+20 Tarp žvaigždžių
+21 Dievo miestas
+22 Stebuklingi Šihiros nuotykiai dvasių pasaulyje
+23 Gelbstint eilinį Rajeną
+24 Žalioji mylia
+25 Gyvenimas yra gražus
+26 Septyni
+27 Avinėlių tylejimas
+28 Žvaigždžių karai
+29 Harakiri
+30 Septyni samurajai
+31 Tas nuostabus gyvenimas
+32 Atkirtis
+33 Neliečiamieji
+34 Prestižas
+35 Infiltruoti
+36 Pianistas
+37 Gladiatorius
+38 Amerikos istorija X
+39 Įprasti įtariamieji
+40 Leonas
+41 Liūtas karalius
+42 Terminatorius 2: paskutinio teismo diena
+43 Naujasis Paradiso kino teatras
+44 Jonvabalių kapas
+45 Atgal į ateitį
+46 Kartą vakaruose
+47 Psichopatas
+48 Langas į kiemą
+49 Kasablanka
+50 Modernūs laikai
+51 Pabėgimas iš Šoušenko
+52 Krikštatėvis
+53 Tamsos riteris
+54 Krikštatėvis II
+55 12 įtūžusių vyriškių
+56 Žiedų valdovas. Karaliaus sugrįžimas
+57 Bulvarinis skaitalas
+58 Šindlerio sąrašas
+59 Pradžia
+60 Kovos klubas
+61 Žiedų valdovas. Žiedo brolija
+62 Forestas Gampas
+63 Geras, blogas ir bjaurus
+64 Žiedų valdovas. Dvi tvirtovės
+65 Matrica
+66 Geri vyrukai
+67 Žvaigždžių karai. Imperija kontratakuoja
+68 Skrydis virš gegutės lizdo
+69 Parazitas
+70 Tarp žvaigždžių
+71 Dievo miestas
+72 Stebuklingi Šihiros nuotykiai dvasių pasaulyje
+73 Gelbstint eilinį Rajeną
+74 Žalioji mylia
+75 Gyvenimas yra gražus
+76 Septyni
+77 Avinėlių tylejimas
+78 Žvaigždžių karai
+79 Harakiri
+80 Septyni samurajai
+81 Tas nuostabus gyvenimas
+82 Atkirtis
+83 Neliečiamieji
+84 Prestižas
+85 Infiltruoti
+86 Pianistas
+87 Gladiatorius
+88 Amerikos istorija X
+89 Įprasti įtariamieji
+90 Leonas
+91 Liūtas karalius
+92 Terminatorius 2: paskutinio teismo diena
+93 Naujasis Paradiso kino teatras
+94 Jonvabalių kapas
+95 Atgal į ateitį
+96 Kartą vakaruose
+97 Psichopatas
+98 Langas į kiemą
+99 Kasablanka
+100 Modernūs laikai
